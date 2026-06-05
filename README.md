@@ -1,12 +1,14 @@
 
 
-### 📊 Full Contribution Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswath-sanrado&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=9198a1&bg_color=0d1117)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=aswath-sanrado&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950)
+### Contribution Stats
 
-### 🛠️ Tech Stack
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=aswath-sanrado&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&hide_title=true&hide_rank=true&hide_contributors=true)
+
+### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,4 +21,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
+</div>
