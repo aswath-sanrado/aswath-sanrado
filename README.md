@@ -1,6 +1,4 @@
-## Hi there 👋
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=aswath-sanrado&theme=transparent&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=9198a1&dates=9198a1&stroke=9198a1)
 
 ### 📊 Full Contribution Stats
 
@@ -21,6 +19,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📈 All Contributions (Last Year)
 
-![Contribution Snake](https://raw.githubusercontent.com/aswath-sanrado/aswath-sanrado/output/github-contribution-grid-snake-dark.svg)
